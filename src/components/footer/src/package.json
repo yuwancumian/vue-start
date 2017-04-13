@@ -1,0 +1,12 @@
+{
+	"name": "otter-footer",
+  "description": "",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "author": "yuwancumian",
+  "homepage": "https://github.com/yuwancumian/otter-ui",
+  "license": "MIT",
+  "repository": "https://github.com/yuwancumian/otter-ui/tree/master/footer",
+  "dependencies": {
+  }
+}
